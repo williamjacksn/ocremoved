@@ -39,7 +39,7 @@ Lockdown 1,StarTropics_LeafVibe.mp3,OCR00242,DJ Jimmy the Leaf,Leaf Vibe,StarTro
 Lockdown 1,QuakeIII_Thalk.mp3,OCR00272,Thalk,Thalk,Quake III,Mostly sound effects.
 Lockdown 1,KirbySuperStar_WindBreaker.mp3,OCR00281,DJ Seith,Wind Breaker,Kirby Super Star,SPC rip + layered scratching/FX.
 Lockdown 1,ChronoCross_OpenItUp.mp3,OCR00297,John S,Open It Up,Chrono Cross,"WAV rip + drums, sped up."
-Lockdown 1,HalfLifeCounterStrike_PaleriderTraining.mp3,OCR00305,[Doom]Paleraider,Palerider Training,Half-Life: Counter-Strike,Not a game music arrangement. Original/non-VGM composition+ in-game voices. Game had no music.
+Lockdown 1,HalfLifeCounterStrike_PaleriderTraining.mp3,OCR00306,[Doom]Paleraider,Palerider Training,Half-Life: Counter-Strike,Not a game music arrangement. Original/non-VGM composition+ in-game voices. Game had no music.
 Lockdown 1,Koudelka_RequiemElectricFlamesMix.mp3,OCR00315,Steve Pordon,Requiem (Electric Flames Mix),Koudelka,Samples too extensively from original.
 Lockdown 1,HalfLifeCounterStrike_IntheLineofFire.mp3,OCR00679,Provoker,In the Line of Fire,Half-Life: Counter-Strike,Not a game music arrangement. Original/non-VGM composition+ in-game voices. Game had no music.
 Lockdown 1.25,DieHardTrilogy_ILovetheAirport.mp3,OCR01046,Texx Sound,I Love the Airport,Die Hard Trilogy,Too similar to the original
@@ -107,7 +107,7 @@ Lockdown 2,TheSims_AcidTechnoTrip.mp3,OCR00266,Daknit,Acid Techno Trip,Sims,Not 
 Lockdown 2,Arkanoid_C64Vibe.mp3,OCR00277,slaveone,C64 Vibe,Arkanoid,SID rip + drums.
 Lockdown 2,PopUp_80sMix.mp3,OCR00283,Hazama,80s Mix,Pop-Up,"Briefly added new writing, but too similar to the original."
 Lockdown 2,RCProAm_InsomnicIntro.mp3,OCR00284,insomnic,Insomnic Intro,R.C. Pro-Am,NSF rip
-Lockdown 2,FinalFantasyVII_FantasticoMamboTechnoDiscodeChocobo.mp3,OCR00288,cornflex,Fantastico Mambo Techno Disco de Chocobo,Final Fantasy V,"Direct samples Los Mambos Panchos' ""Mambo de Chocobo"" from ""Final Fantasy V: Mambo de Chocobo"" arranged album + bwomp-chicka/drums."
+Lockdown 2,FinalFantasyVII_FantasticoMamboTechnoDiscodeChocobo.mp3,OCR00288,cornflex,Fantastico Mambo Techno Disco de Chocobo,Final Fantasy VII,"Direct samples Los Mambos Panchos' ""Mambo de Chocobo"" from ""Final Fantasy V: Mambo de Chocobo"" arranged album + bwomp-chicka/drums."
 Lockdown 2,Shenmue_RyosRenshuu.mp3,OCR00289,mutagene,Ryo's Renshuu,Shenmue,"WAV rip + SFX, sped up."
 Lockdown 2,KidIcarus_LittleKidsCantFly.mp3,OCR00290,Daknit,Little Kids Can't Fly,Kid Icarus,Quality issues.
 Lockdown 2,EarthwormJim2_TitleTopsoil.mp3,OCR00293,4-Eyes,Title Topsoil,Earthworm Jim 2,SPC rip + drums.
@@ -144,11 +144,11 @@ Lockdown 2,SuperGhoulsnGhosts_SwimminginZombieGuts.mp3,OCR00997,Nigel Simmons,Sw
 request,Castlevania_Subliminal.mp3,OCR00038 ,Subliminal Labs,Subliminal,Castlevania,Removed by request
 request,DonkeyKong_KennedyHammer.mp3,OCR00073,Greg Kennedy,Kennedy Hammer,Donkey Kong,"replaced by request with OCR00073 - Lotus II R.E.C.S. ""Overdrive"""
 request,FinalFantasyVIII_FindYourWay.mp3,OCR00174,FFmusic Dj,Find Your Way,Final Fantasy VIII,Removed by request
-request,ChronoTrigger_GuardiaForestSpirits.mp3,OCR00253/OCR00635,mp,Guardia Forest Spirits,Chrono Trigger,Removed by request
 request,FinalFantasyII_PromisedLand.mp3,OCR00267,FFmusic Dj,Promised Land,Final Fantasy II,Removed by request
 request,FinalFantasyAdventure_MissionofMana.mp3,OCR00279,Compyfox,Mission of Mana,Final Fantasy Adventure,Removed by request
 request,FinalFantasyVII_AerisChasm.mp3,OCR00344,FFmusic Dj,Aeris Chasm,Final Fantasy VII,Removed by request
 request,FinalFantasyVIII_ManwiththeTranceMachine.mp3,OCR00461,Beatdrop,Man with the Trance Machine,Final Fantasy VIII,"replaced by request with OCR00798 - Final Fantasy VIII ""Man with Another Trance Machine"""
+request,ChronoTrigger_GuardiaForestSpirits.mp3,OCR00635,mp,Guardia Forest Spirits,Chrono Trigger,Removed by request
 request,KidIcarus_IcarusOrchestrated.mp3,OCR00672,ZhayTee,Icarus Orchestrated,Kid Icarus,Removed by request
 request,Teenagent_Trapped.mp3,OCR02128,Brandon Strader,Trapped,Teen Agent,Removed by request
 request,Teenagent_LingeringLust.mp3,OCR02130,Brandon Strader,Lingering Lust,Teen Agent,Removed by request
@@ -221,6 +221,7 @@ request,KirbysAdventure_SilverandGold.mp3,OCR03342,Brandon Strader,Silver and Go
 request,FinalFantasyIX_BlakkMajik.mp3,OCR03349,Brandon Strader + Jeff Ball,Blakk Majik,Final Fantasy IX,Removed by request
 request,TotheMoon_Rabbit.mp3,OCR03381,Brandon Strader,Rabbit,To the Moon,Removed by request
 request,ChronoCross_TimelessCalamity.mp3,OCR03403,Brandon Strader,Timeless Calamity,Chrono Cross,Removed by request
+request,TheLegendofZeldaALinktothePast_JazzofZelda.mp3,OCR00187,Nicke Widén,Jazz of Zelda,The Legend of Zelda: A Link to the Past,Removed by request
 April Fools 2003,ChronoTrigger_CoolCoolSchala.mp3,unknown,Rob Saunders,Cool Cool Schala,Chrono Trigger,"April Fools' Day prank, removed next day"
 April Fools 2003,DarkwingDuck_FowlJive.mp3,unknown,Digital Coma,Fowl Jive,Darkwing Duck,"April Fools' Day prank, removed next day"
 April Fools 2004,FinalFantasy_RetentionsofConflict.mp3,OCR01150,Protricity,Retentions of Conflict,Final Fantasy,"April Fools' Day prank, removed next day"
