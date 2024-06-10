@@ -33,6 +33,6 @@ jobs:
         with:
           path: content
 
-      - name: Deploy to GitHub PAges
+      - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
